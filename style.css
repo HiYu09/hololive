@@ -1,0 +1,118 @@
+.bebasneue {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .tinos-regular {
+    font-family: "Tinos", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: none;
+    display: flex;
+    margin-left: 1rem;
+    margin-bottom: 3rem;
+    color: black;
+  }
+  
+*{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    margin: 0%;
+}
+    
+h1{
+    color: black;
+    font-size: 75px;
+}
+
+.about {
+    display: inline-table;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.chars{
+    display: flex;
+    margin-left: 1rem;
+    margin-bottom: 3rem;
+    color: black;
+
+}
+
+p{
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    margin-top: 30px;
+    padding: 30px 40px;
+    font-size: 50px;
+
+}
+
+body {
+    text-align: center;
+    width: 100%;
+    background-color: #a8ece7;
+
+}
+
+img {
+    width: 100%;
+}
+
+.title {
+    display: table;
+    position: fixed;
+    height: 20px;
+    margin-left: -470px;
+    border-radius:50px 60px;
+    padding: 0%;
+    
+}
+
+.ribbon{
+    display: flex;
+    position: fixed;
+    height: 50px;
+    margin-left: 1660px;
+}
+
+.headers{
+    text-align: left;
+    margin-left: 15px;
+    color: black;
+}
+
+.menu {
+    text-align: center;
+    width: 300px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 30px;
+    
+}
+
+.menu :hover{
+    transform: scale(1.1);
+}
+
+.Welcome{
+    width: 1860px;
+    height: auto;
+    display: inline-flex;
+    margin-left: 0;
+    position: static;
+
+
+
+}
+
+.photo{
+    width: 40%;
+    display: inline-block;
+    padding: 30px;
+    margin: 0%;
+}
